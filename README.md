@@ -13,9 +13,9 @@
     <br />
     <!-- <a href="https://github.com/github_username/repo_name">View Demo</a> -->
     <!-- &middot; -->
-    <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/NilUygun/Sudoku_Game/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/NilUygun/The-Readers-Shelf/issues/new?labels=enhancement">Request Feature</a>
+    <a href="https://github.com/NilUygun/Sudoku_Game/issues/new?labels=enhancement">Request Feature</a>
   </p>
 </div>
 
